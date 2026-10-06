@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Personal key bindings and temporary settings
+key-bindings.json
+key-bindings.tmp
+
+# Exported recordings
+KeyGlow-taps*.csv
+KeyGlow-taps*.json
+
+# Local-only publishing instructions
+PUSH-MANUAL.local.md
